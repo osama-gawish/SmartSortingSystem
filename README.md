@@ -1,4 +1,4 @@
 # SmartSortingSystem
 Cans and bottles detection and tracking
 
-[Click here to open the Jupyter Notebook](Untitled.ipynb)
+![Alt Text]([URL](https://drive.google.com/file/d/1xhzbvAmF5uhKywVMDikyNMwZXdfvKO0o/view?usp=drive_link)https://drive.google.com/file/d/1xhzbvAmF5uhKywVMDikyNMwZXdfvKO0o/view?usp=drive_link)
