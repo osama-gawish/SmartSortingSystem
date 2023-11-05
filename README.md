@@ -1,5 +1,5 @@
 # SmartSortingSystem
-Cans and bottles detection and tracking
+Real time cans and bottles detection and tracking
 
 ![](ezgif.com-video-to-gif.gif)
 
