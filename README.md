@@ -1,10 +1,10 @@
 # SmartSortingSystem
-Real time cans and bottles detection and tracking
+Real-time cans and bottles detection and tracking
 
 ![](ezgif.com-video-to-gif.gif)
 
 
-I kick-started the project by collecting and annotating an Object Detection with bounding boxes Dataset for crushed cans and bottles. Next, I implemented it into the SSD MobileNetV2 training model. Then, I converted the output TensorFlow model into a TFlite model.
+I kick-started the project by collecting and annotating an Object Detection with bounding boxes Dataset for crushed cans and bottles. Next, I used TensorFlow Object Detection API to implement it into the SSD MobileNetV2 training model. Then, I converted the output TensorFlow model into a TFlite model.
 
 To test the capabilities of the trained model, I incorporated it into Python scripts, allowing it to handle various input cases, such as video, image, and live webcam feeds. On Windows, I used the Interpreter module from the TensorFlow library, while on the Raspberry Pi, I relied on the TFLite runtime for model inference.
 
